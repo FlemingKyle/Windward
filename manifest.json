@@ -1,0 +1,19 @@
+{
+  "name": "Windward",
+  "short_name": "Windward",
+  "id": "/windward",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#6E9AB0",
+  "theme_color": "#6E9AB0",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
